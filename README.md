@@ -38,13 +38,14 @@ GitHub / Airtable / Jira / Heroku / AWS
 
 * [Rename](https://github.com/morshedalam/rename) : Allows to rename Rails application by using a single command.
 
+<!--
 ## Services🍩
 
 * [@rails_study_bot](https://twitter.com/rails_study_bot) : This bot tweets rails methods and GitHub URLs.
 * [@ruby_study_bot](https://twitter.com/ruby_study_bot) : This bot tweets Ruby methods and the corresponding pages of the reference manual.
 * [multi-tab-markdown](https://madogiwa0124.github.io/multi-tab-markdown/) : markdown editor with multi tabbed functionality.
 * [Dogfeeds](https://dogfeeds.herokuapp.com/) : This is a service that can compile Rss.
-<!--
+
 ## Others🤖
 
 * [my_rails_template](https://github.com/madogiwa0124/my_rails_template) : My application template for Ruby on Rails.
