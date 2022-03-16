@@ -6,6 +6,7 @@ Leading to build & manage application from the ground up to production using PHP
 Personal website : https://morshed-alam.com  
 Linkedin profile : https://www.linkedin.com/in/morshed/
 
+
 ## I used at work
 
 ### Backend
@@ -20,8 +21,8 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 * [delayed_job](https://github.com/collectiveidea/delayed_job) / [Grape](https://github.com/ruby-grape/grape) / [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) / [BOX](https://github.com/cburnette/boxr) / [Google](https://github.com/gimite/google-drive-ruby)
 * GitHub / Airtable / Jira / Heroku / AWS
 
-
-
+<br />
+<br />
 ## My Contributions
 
 ### Ruby Gems
@@ -38,6 +39,8 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 
 * [Website Parser](https://github.com/morshedalam/url-scraper-php) : parser class to extract links and images from web pages
 
+<br />
+<br />
 ## Stats📊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morshedalam&theme=default)
