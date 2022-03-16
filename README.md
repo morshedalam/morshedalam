@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m currently working on Ruby on Rails and leading to build & manage application from the ground up to production using PHP and Ruby.
 
-My personal website :bd: : https://morshed-alam.com
+My personal website 🇧🇩 : https://morshed-alam.com
 
 ## I used at work 👩‍💻
 
