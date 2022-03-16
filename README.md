@@ -23,7 +23,6 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 * GitHub / Airtable / Jira / Heroku / AWS
 
 <br />
-<br />
 
 ## My Contributions
 
@@ -41,7 +40,6 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 
 * [Website Parser](https://github.com/morshedalam/url-scraper-php) : parser class to extract links and images from web pages
 
-<br />
 <br />
 
 ## Stats📊
