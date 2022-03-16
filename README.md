@@ -6,6 +6,7 @@ Leading to build & manage application from the ground up to production using PHP
 Personal website : https://morshed-alam.com  
 Linkedin profile : https://www.linkedin.com/in/morshed/
 
+<br />
 
 ## I used at work
 
@@ -23,6 +24,7 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 
 <br />
 <br />
+
 ## My Contributions
 
 ### Ruby Gems
@@ -41,6 +43,7 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 
 <br />
 <br />
+
 ## Stats📊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morshedalam&theme=default)
