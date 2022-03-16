@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Ruby on Rails and leading to build & manage application from the ground up to production using PHP and Ruby.
+I’m currently working on Ruby on Rails and leading to build & manage application from the ground up to production using PHP and Ruby.
 
-My personal website :jp: : https://morshed-alam.com
+My personal website :bd: : https://morshed-alam.com
 
 ## I used at work 👩‍💻
 
