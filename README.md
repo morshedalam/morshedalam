@@ -1,7 +1,7 @@
 # Morshed Alam 🇧🇩
 
-I’m currently working on Ruby on Rails  
-Leading to build & manage application from the ground up to production using PHP and Ruby on Rails.
+I’m currently working on Ruby on Rails.  
+Leading to build & managing applications from the ground up to production using PHP and Ruby on Rails.
 
 Personal website : https://morshed-alam.com  
 Linkedin profile : https://www.linkedin.com/in/morshed/
