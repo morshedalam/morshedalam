@@ -1,59 +1,42 @@
-# Morshed Alam 🙂
+# Morshed Alam 🇧🇩
 
-<!--
-**morshedalam/morshedalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on Ruby on Rails and leading to build & manage application from the ground up to production using PHP and Ruby on Rails.
 
-Here are some ideas to get you started:
+Personal website : https://morshed-alam.com
+Linkedin profile : https://www.linkedin.com/in/morshed/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I’m currently working on Ruby on Rails and leading to build & manage application from the ground up to production using PHP and Ruby.
-
-My personal website 🇧🇩 : https://morshed-alam.com
-
-## I used at work 👩‍💻
+## I used at work
 
 ### Backend
-* Ruby / Ruby on Rails / delayed_job
+* Ruby / Ruby on Rails
 * MySQL / PostgreSQL
 
 ### Frontend
 * JavaScript / jQuery / CoffeeScript / CSS / Sass(Scss) / HTML / Haml
-* webpack
+* Bootstrap / AngularJS / Foundation
 
 ### Others
-GitHub / Airtable / Jira / Heroku / AWS
+* [delayed_job](https://github.com/collectiveidea/delayed_job) / [Grape](https://github.com/ruby-grape/grape) / [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) / [BOX](https://github.com/cburnette/boxr) / [Google](https://github.com/gimite/google-drive-ruby)
+* GitHub / Airtable / Jira / Heroku / AWS
 
-# My apps 🗂
 
-## Ruby gems💎
 
-* [Rename](https://github.com/morshedalam/rename) : Allows to rename Rails application by using a single command.
+# My Contributions
 
-<!--
-## Services🍩
+## Ruby Gems
 
-* [@rails_study_bot](https://twitter.com/rails_study_bot) : This bot tweets rails methods and GitHub URLs.
-* [@ruby_study_bot](https://twitter.com/ruby_study_bot) : This bot tweets Ruby methods and the corresponding pages of the reference manual.
-* [multi-tab-markdown](https://madogiwa0124.github.io/multi-tab-markdown/) : markdown editor with multi tabbed functionality.
-* [Dogfeeds](https://dogfeeds.herokuapp.com/) : This is a service that can compile Rss.
+* [Rename](https://github.com/morshedalam/rename) : allows to rename Rails application by using a single command.
+* [Wrike3](https://github.com/morshedalam/wrike3) : communicate through Wrike.com API.
 
-## Others🤖
+## JavaScript Libraries
 
-* [my_rails_template](https://github.com/madogiwa0124/my_rails_template) : My application template for Ruby on Rails.
-* [CameRuby](https://github.com/madogiwa0124/CameRuby) : camelCase🐫 + Ruby💎 = 🐫CameRuby💎.
-* [webpack_study](https://github.com/madogiwa0124/webpack_study) : repository for webpack study.
-* [JavaScriptGameExam](https://github.com/madogiwa0124/JavaScriptGameExam) : games made using JavaScript/TypeScript.
-* [rails-heroku-terraform](https://github.com/madogiwa0124/rails-heroku-terraform) : terraform template for running Rails on Heroku.
--->
+* [Week Picker](https://github.com/morshedalam/week-picker) : multi month week picker calendar.
+* [DateTime helper](https://github.com/morshedalam/date_time_helper) : date time helper
+
+## PHP Libraries
+
+* [Website Parser](https://github.com/morshedalam/url-scraper-php) : parser class to extract links and images from web pages
+
 # Stats📊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morshedalam&theme=default)
