@@ -18,7 +18,7 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 * Bootstrap / AngularJS / Foundation
 
 #### Others
-* [delayed_job](https://github.com/collectiveidea/delayed_job) / [Grape](https://github.com/ruby-grape/grape) / [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) / [BOX](https://github.com/cburnette/boxr) / [Google](https://github.com/gimite/google-drive-ruby)
+* [delayed_job](https://github.com/collectiveidea/delayed_job) / [Grape](https://github.com/ruby-grape/grape) / [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) / [BOX](https://github.com/cburnette/boxr) / [Google Docs](https://github.com/gimite/google-drive-ruby)
 * GitHub / Airtable / Jira / Heroku / AWS
 
 <br />
