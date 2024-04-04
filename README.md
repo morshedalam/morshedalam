@@ -1,8 +1,8 @@
 # Morshed Alam 🇧🇩
 
-Leading to build & managing applications from the ground up to production using Ruby on Rails and PHP.
+I am a full-stack developer that specializes in working on custom web applications. Experienced in developing, leading and managing small to enterprise level applications as Software Architect, Technical lead and Developer.
 
-Personal website : https://morshed-alam.com  
+Personal website : https://www.morshed-alam.com  
 Linkedin profile : https://www.linkedin.com/in/morshed/
 
 <br />
@@ -10,12 +10,12 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 ### I used at work
 
 #### Backend
-* Ruby / Ruby on Rails
+* Ruby / Ruby on Rails / PHP
 * MySQL / PostgreSQL
 
 #### Frontend
-* JavaScript / jQuery / CoffeeScript / CSS / Sass(Scss) / HTML / Haml
-* Bootstrap / AngularJS / Foundation
+* JavaScript / jQuery / CoffeeScript / AngularJS / Backbone.js
+* Bootstrap / Foundation / CSS / Sass(Scss) / HTML / Haml
 
 #### Others
 * [delayed_job](https://github.com/collectiveidea/delayed_job) / [Grape](https://github.com/ruby-grape/grape) / [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) / [BOX](https://github.com/cburnette/boxr) / [Google Docs](https://github.com/gimite/google-drive-ruby)
