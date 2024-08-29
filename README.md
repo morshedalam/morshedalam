@@ -7,8 +7,8 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 <br />
 
 #### Experience & Expertise:
-* Ruby on Rails, TDD / BDD (RSpec, Cucumber, Capybara, Factory Girl, shoulda)
-* PHP, Laravel, CodeIgniter, Joomla, WordPress, OpenCart, CakePHP etc.
+* `Ruby on Rails`, TDD / BDD (RSpec, Cucumber, Capybara, Factory Girl, shoulda)
+* `PHP`, Laravel, CodeIgniter, Joomla, WordPress, OpenCart, CakePHP etc.
 * <ins>Database Management</ins>: MySql, PostgreSQL, MongoDB, Redis
 * <ins>Front-end UI</ins>: CSS, HTML, Haml, SASS, Twitter Bootstrap, Zurb Foundation etc.
 * <ins>Front-end JS</ins>: JavaScript, Ajax, jQuery, CoffeeScript, AngularJS, Node.js, Backbone etc.
