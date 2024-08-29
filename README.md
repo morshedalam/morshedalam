@@ -23,7 +23,7 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 * <ins>Cloud Servers</ins>: Heroku, AWS, Rackspace, EngineYard, Digital Ocean, Auto Scaling
 * <ins>Project Management</ins>: Agile(Scrum, Kanban), Slack, Airtable, Jira, Trello, Stacker, Wrike, Lighthouse, Basecamp, Pivotal Tracker
 
-#### Highlights:
+#### 🌟 Highlights:
 * 15+  years experience in <ins>Ruby on Rails</ins>
 * 5+ years experience in <ins>PHP</ins>
 * 1+ years experience in C# and Microsoft SQL Server
