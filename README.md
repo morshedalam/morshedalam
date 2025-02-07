@@ -24,7 +24,7 @@ Linkedin profile : https://www.linkedin.com/in/morshed/
 * <ins>Project Management</ins>: Agile(Scrum, Kanban), Slack, Airtable, Jira, Trello, Stacker, Wrike, Lighthouse, Basecamp, Pivotal Tracker
 
 #### 💡 Highlights:
-* 15+  years experience in <ins>Ruby on Rails</ins>
+* 14+  years experience in <ins>Ruby on Rails</ins>
 * 5+ years experience in <ins>PHP</ins>
 * 1+ years experience in C# and Microsoft SQL Server
 * Lifetime `top rated developer` with 100% `job success` on upwork.com for 6.5K+ hours
