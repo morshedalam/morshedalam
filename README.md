@@ -1,65 +1,42 @@
 # Morshed Alam 🇧🇩
+**Full Stack Developer | Software Architect | Technical Lead**<br/>
+Specializing in **Ruby on Rails, PHP**, and scalable cloud applications<br/>
+Dhaka, Bangladesh | morshed201@gmail.com | +8801731213878
 
-I am a full-stack developer with 19+ years of experience in developing, leading and managing applications as a Software Architect, Technical Lead and Developer roles in Ruby on Rails and PHP.
+## About Me  
+I am a **Full Stack Developer with 20+ years of experience** designing and delivering **scalable, high-performance applications**.  
+- **16+ years in Ruby on Rails** | **5+ years in PHP** | 1+ year in C#
+- **Lifetime Top Rated Developer on Upwork** – 6,500+ hours delivered with 100% success  
+- Expertise in **software architecture, agile leadership, and DevOps (AWS, Heroku, CI/CD)**  
+- Contributor to open source libraries and passionate about **clean code, TDD, and automation**  
 
-Personal website : https://www.morshed-alam.com  
-Linkedin profile : https://www.linkedin.com/in/morshed/
-<br />
+## Core Skills  
+- **Languages**: Ruby, PHP, JavaScript, C#, HTML5, CSS3, SASS  
+- **Frameworks**: Ruby on Rails, Laravel, CakePHP, CodeIgniter, WordPress, ASP.NET, Node.js, AngularJS, Backbone.js  
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, MS SQL Server  
+- **Testing**: RSpec, Cucumber, Capybara, Selenium  
+- **DevOps & Cloud**: AWS, Heroku, DigitalOcean, Rackspace, EngineYard, GitLab CI/CD  
+- **APIs & Integrations**: Stripe, PayPal, Google APIs, Slack, Wrike, Box, SendGrid, Social APIs
 
-#### 🌟 Experience & Expertise:
-* `Ruby on Rails`, TDD / BDD (RSpec, Cucumber, Capybara, Factory Girl, shoulda)
-* `PHP`, Laravel, CodeIgniter, Joomla, WordPress, OpenCart, CakePHP etc.
-* <ins>Database Management</ins>: MySql, PostgreSQL, MongoDB, Redis
-* <ins>Front-end UI</ins>: CSS, HTML, Haml, SASS, Twitter Bootstrap, Zurb Foundation etc.
-* <ins>Front-end JS</ins>: JavaScript, Ajax, jQuery, CoffeeScript, AngularJS, Node.js, Backbone etc.
-* <ins>APIs</ins>: Slack, Google Drive, Box, Amazon(S3, SES, SQS, SNS), SendGrid and many more.
-* <ins>Payment Processing</ins>: Stripe, PayPal, Google Checkout, Amazon FPS and Various CC Processing
-* <ins>API Design</ins>: Grape, Sinatra, Doorkeeper
-* <ins>Social Apis</ins>: Facebook, Twitter, LinkedIn
-* <ins>Automating Web Browsers</ins>: Selenium, Watir
-* <ins>Background Jobs</ins>: ActionCable, DelayedJob, Sidekiq, Cron
-* <ins>CI & Deployment</ins>: GitLab, Cruise Control, Capistrano, FTP
-* <ins>Web & Application Servers</ins>: Apache, Nginx, Passenger, Unicorn, Puma
-* <ins>Cloud Servers</ins>: Heroku, AWS, Rackspace, EngineYard, Digital Ocean, Auto Scaling
-* <ins>Project Management</ins>: Agile(Scrum, Kanban), Slack, Airtable, Jira, Trello, Stacker, Wrike, Lighthouse, Basecamp, Pivotal Tracker
+## Featured Projects  
+- **[Flow (Radiant Law)](https://flow.radiantlaw.com/)** – Contracts & matter management system (Ruby on Rails, APIs, AWS)  
+- **[FolerMela](https://www.folermela.com/)** – E-commerce platform connecting local farmers to consumers (PHP, MySQL)  
+- **[Foundry Parts Tracking](https://parts.wallawallafoundry.com/)** – Workflow management for manufacturing (Rails, Backbone.js)  
+- **Straight To The Boss** – Anonymous employee feedback app (MEAN stack)  
+- **Wiibeast.com** – Social fitness application (Rails, AWS)
 
-#### 💡 Highlights:
-* 14+  years experience in <ins>Ruby on Rails</ins>
-* 5+ years experience in <ins>PHP</ins>
-* 1+ years experience in C# and Microsoft SQL Server
-* Lifetime `top rated developer` with 100% `job success` on upwork.com for 6.5K+ hours
-* My core competency lies in `complete end-to-end architecting`, building & managing application from the `ground up to production`
-* Commitment to delivering on time
-* Iteratively developing and refining the features you need
-* Helps development teams and improve by adopting best practices
-* Always willing to learn and do anything to make your idea into reality
-* Setting and managing cloud servers including Heroku, Amazon and Rackspace etc.
-* Good hand in open source front-end tools like jQuery, Bootstrap, CSS and HTML etc. and integrating HTML/CSS from designers.
-* Have experience to work with multilingual application
-* Continuous integration with automated testing
-* Database design and optimization
-* Love to write `DRY`, `manageable` and `readable code`
-* Familiar with machine learning(Have certification in `Machine Learning`)
+## 📂 Open Source Contributions  
+- [Rename](https://github.com/morshedalam/rename) – Ruby library to rename Rails applications in one command  
+- [Wrike3](https://github.com/morshedalam/wrike3) – Ruby library for Wrike API  
+- [Week Picker](https://github.com/morshedalam/week-picker) – Multi-month week picker in JavaScript  
+- [Website Parser](https://github.com/morshedalam/url-scraper-php) – PHP library to extract links and images  
 
-### My Contributions
+## Let’s Connect  
+[Portfolio - http://morshed-alam.com/portfolio](http://morshed-alam.com/portfolio)<br/>
+[LinkedIn - https://www.linkedin.com/in/morshed/](https://www.linkedin.com/in/morshed)<br/>
+[Resume - https://drive.google.com/file/d/11JMM2uGO7dB8gSNBxLHclA1JSq-S3t4w/view](https://drive.google.com/file/d/11JMM2uGO7dB8gSNBxLHclA1JSq-S3t4w/view)
 
-#### Ruby Gems
-
-* [Rename](https://github.com/morshedalam/rename) : allows to rename Rails application by using a single command.
-* [Wrike3](https://github.com/morshedalam/wrike3) : communicate through Wrike.com API.
-
-#### JavaScript Libraries
-
-* [Week Picker](https://github.com/morshedalam/week-picker) : multi month week picker calendar.
-* [DateTime helper](https://github.com/morshedalam/date_time_helper) : date time helper
-
-#### PHP Libraries
-
-* [Website Parser](https://github.com/morshedalam/url-scraper-php) : parser class to extract links and images from web pages
-
-<br />
-
-### Stats📊
+## Stats📊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morshedalam&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morshedalam&theme=default)
