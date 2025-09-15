@@ -32,9 +32,9 @@ I am a **Full Stack Developer with 20+ years of experience** designing and deliv
 - [Website Parser](https://github.com/morshedalam/url-scraper-php) – PHP library to extract links and images  
 
 ## Let’s Connect  
-[Portfolio - http://morshed-alam.com/portfolio](http://morshed-alam.com/portfolio)<br/>
-[LinkedIn - https://www.linkedin.com/in/morshed/](https://www.linkedin.com/in/morshed)<br/>
-[Resume - https://drive.google.com/file/d/11JMM2uGO7dB8gSNBxLHclA1JSq-S3t4w/view](https://drive.google.com/file/d/11JMM2uGO7dB8gSNBxLHclA1JSq-S3t4w/view)
+[Portfolio] - (http://morshed-alam.com/portfolio)<br/>
+[LinkedIn] - (https://www.linkedin.com/in/morshed)<br/>
+[Resume] - (https://drive.google.com/file/d/11JMM2uGO7dB8gSNBxLHclA1JSq-S3t4w/view)
 
 ## Stats📊
 
